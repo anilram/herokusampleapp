@@ -1,4 +1,7 @@
-# java-getting-started
+# HerokuSampleApp
+
+
+- Sample App of heroku/java-getting-started project with some changes.
 
 [![CircleCI](https://circleci.com/gh/heroku/java-getting-started.svg?style=svg)](https://circleci.com/gh/heroku/java-getting-started)
 
